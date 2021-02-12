@@ -1,0 +1,5 @@
+{
+  "name": "React Remote Container",
+  "build": { "dockerfile": "Dockerfile" },
+  "forwardPorts": [3000]
+}
